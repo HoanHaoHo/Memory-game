@@ -1,2 +1,2 @@
 # Memory-game
-The #2 memory game on the planet . All the others just wish they were this good
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
