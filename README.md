@@ -1,7 +1,7 @@
 # Memory-game
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-## Project Title
-The Memory Game Project is made from HTML, CSS,and JavaScript. This is a memory game that requires you to have a high memory capacity, in order to flip through the same pairs in the shortest possible time and spend the least amount of turns.
+
+The Memory Game Project is made from HTML, CSS,and JavaScript. This is a memory game that requires you to have a high memory capacity in order to find the pairs in the shortest possible time and least amount of turns.
 
 
 ## Description
@@ -12,11 +12,11 @@ The game board consists of sixteen cards which are arranged randomly in the boar
 ## How to play  
 
 
-1. When you start to flip the first card, the time and moves begin to count.
-2. The player flips the first card by clicking any cards on the table
-3. If player flip the same two cards, the card will change to green and keep the picture.
-4. If player flip cards not match , both cards are flipped face down (black).
-5. Players will flip the cards until they find 8 different pairs of cards on the table. The game will announce the winner after all the cars are flipped over.
+1. Click a card to flip it over. The timer starts and moves begin to count.
+2. Click a second card to flip it over.
+3. If the two cards match, both cards will change to green and stay open.
+4. If the two cards do not match , both cards are flipped face down (black).
+5. Players will flip the cards until they find the 8 matches on the game board. The game will announce the winner after all the cards are flipped over.
 
 ## Picture in game
 1. ### Matched cards.
