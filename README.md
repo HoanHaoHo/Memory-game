@@ -21,7 +21,7 @@ The game board consists of sixteen cards which are arranged randomly in the boar
 1. ### Matched cards.
     - ![capture](https://user-images.githubusercontent.com/37636748/38788205-19a982f6-40f8-11e8-8974-5ed9267dd51a.PNG).
 2. ### Reset button (yellow highlight).
-    - 
+    - ![capture reset](https://user-images.githubusercontent.com/37636748/38788358-e06aed12-40f8-11e8-8b20-a7e0f3cb0349.PNG)
 3. ### Moves count (yellow highlight).
     - 
 4. ### Victory.
