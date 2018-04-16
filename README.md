@@ -18,6 +18,14 @@ The game board consists of sixteen cards which are arranged randomly in the boar
 4. If player flip cards not match , both cards are flipped face down (black).
 
 ## Picture in game
+1. ### Matched cards.
+    - ![capture](https://user-images.githubusercontent.com/37636748/38788205-19a982f6-40f8-11e8-8974-5ed9267dd51a.PNG).
+2. ### Reset button (yellow highlight).
+    - 
+3. ### Moves count (yellow highlight).
+    - 
+4. ### Victory.
+    - 
 ## Issue
 1. Player are able to click 3 cards at once . However, the system automatically compares the two cards that are opened first. I also fixed this by using setTimeOut() function and reducing the timeout when opening the card.
 2. There is still a problem with my game that players can pick up the overturned items and cause game errors.
