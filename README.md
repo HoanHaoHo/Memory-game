@@ -16,6 +16,7 @@ The game board consists of sixteen cards which are arranged randomly in the boar
 2. The player flips the first card by clicking any cards on the table
 3. If player flip the same two cards, the card will change to green and keep the picture.
 4. If player flip cards not match , both cards are flipped face down (black).
+5. Players will flip the cards until they find 8 different pairs of cards on the table. The game will announce the winner after all the cars are flipped over.
 
 ## Picture in game
 1. ### Matched cards.
