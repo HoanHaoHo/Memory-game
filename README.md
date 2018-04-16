@@ -25,7 +25,7 @@ The game board consists of sixteen cards which are arranged randomly in the boar
 3. ### Moves count (yellow highlight).
     - ![capture move](https://user-images.githubusercontent.com/37636748/38788388-048cf104-40f9-11e8-922b-3b7a66bd7155.PNG).
 4. ### Victory.
-    - 
+    - ![capture victory](https://user-images.githubusercontent.com/37636748/38788426-30855346-40f9-11e8-8cd2-01c578d5f996.PNG).
 ## Issue
 1. Player are able to click 3 cards at once . However, the system automatically compares the two cards that are opened first. I also fixed this by using setTimeOut() function and reducing the timeout when opening the card.
 2. There is still a problem with my game that players can pick up the overturned items and cause game errors.
